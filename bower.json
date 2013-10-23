@@ -1,0 +1,25 @@
+{
+  "name": "hide-bars",
+  "main": "index.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/lsvx/hide-bars",
+  "authors": [
+    "Lucas Serven <lserven@gmail.com>"
+  ],
+  "description": "Hide the scrollbars on any element.",
+  "keywords": [
+    "hide",
+    "scrollbars",
+    "scroll",
+    "bar"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "build"
+  ]
+}
